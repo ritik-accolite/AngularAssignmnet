@@ -1,6 +1,6 @@
-# FirstProject
+# Live Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+This project is hosted on netlify : https://spiffy-profiterole-ffac16.netlify.app/
 
 ## Development server
 
